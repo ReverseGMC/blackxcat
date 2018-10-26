@@ -21,4 +21,4 @@ bot.on('message', function (message){
         message.channel.sendMessage('https://www.mcleodgaming.com/games/ssf2');      
 });
 
-bot.login(TOKEN);
+bot.login(process.env.token);
