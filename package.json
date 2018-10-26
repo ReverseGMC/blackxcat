@@ -1,19 +1,14 @@
 {
-  "name": "blackcatbot",
+  "name": "tutorial-bot",
   "version": "1.0.0",
-  "description": "Hopefully works",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "This should work"
-  },
-  "author": "ReverseGMC",
+  "author": "Zendovo",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "discord.js-commando": "^0.10.0"
+    "discord.js": "^11.3.2"
   }
 }
